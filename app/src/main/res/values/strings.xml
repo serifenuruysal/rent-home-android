@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EbayKCodingChallenge</string>
+    <string name="title_detail">Details</string>
+    <string name="title_ausstattung">Ausstattung</string>
+    <string name="title_weitere_information">Weitere Information</string>
+    <string name="title_beschreibung">Beschreibung</string>
+</resources>
